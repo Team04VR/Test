@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 96648c85cada84da0952d676a1276d12
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Area_01
+    100002: Area_02
+    100004: Area_03
+    100006: //RootNode
+    100008: Area_05
+    100010: Area_04
+    100012: Area_06
+    100014: Area_10
+    100016: Area_09
+    100018: Area_08
+    100020: Area_07
+    100022: Hidden_Objects
+    100024: Area_11
+    100026: Area_10a
+    100028: Sky
+    100030: Area_01a
+    100032: No OC Objects
+    100034: Industrial_Windows
+    100036: Area_04c
+    100038: Alpha Objects - ChainLink
+    100040: Area_05b_Ceiling
+    100042: Area_05a_Floor
+    100044: Area_05c
+    100046: Area_04b_Ceiling
+    100048: Area_04a_Floor
+    100050: Area_03a
+    100052: Area_06a
+    100054: Area_07a
+    400000: Area_01
+    400002: Area_02
+    400004: Area_03
+    400006: //RootNode
+    400008: Area_05
+    400010: Area_04
+    400012: Area_06
+    400014: Area_10
+    400016: Area_09
+    400018: Area_08
+    400020: Area_07
+    400022: Hidden_Objects
+    400024: Area_11
+    400026: Area_10a
+    400028: Sky
+    400030: Area_01a
+    400032: No OC Objects
+    400034: Industrial_Windows
+    400036: Area_04c
+    400038: Alpha Objects - ChainLink
+    400040: Area_05b_Ceiling
+    400042: Area_05a_Floor
+    400044: Area_05c
+    400046: Area_04b_Ceiling
+    400048: Area_04a_Floor
+    400050: Area_03a
+    400052: Area_06a
+    400054: Area_07a
+    2300000: Area_01
+    2300002: Area_02
+    2300004: Area_03
+    2300006: Area_05
+    2300008: Area_04
+    2300010: Area_06
+    2300012: Area_10
+    2300014: Area_09
+    2300016: Area_08
+    2300018: Area_07
+    2300020: Hidden_Objects
+    2300022: Area_11
+    2300024: Area_10a
+    2300026: Sky
+    2300028: Area_01a
+    2300030: Industrial_Windows
+    2300032: Area_04c
+    2300034: Alpha Objects - ChainLink
+    2300036: Area_05b_Ceiling
+    2300038: Area_05a_Floor
+    2300040: Area_05c
+    2300042: Area_04b_Ceiling
+    2300044: Area_04a_Floor
+    2300046: Area_03a
+    2300048: Area_06a
+    2300050: Area_07a
+    3300000: Area_01
+    3300002: Area_02
+    3300004: Area_03
+    3300006: Area_05
+    3300008: Area_04
+    3300010: Area_06
+    3300012: Area_10
+    3300014: Area_09
+    3300016: Area_08
+    3300018: Area_07
+    3300020: Hidden_Objects
+    3300022: Area_11
+    3300024: Area_10a
+    3300026: Sky
+    3300028: Area_01a
+    3300030: Industrial_Windows
+    3300032: Area_04c
+    3300034: Alpha Objects - ChainLink
+    3300036: Area_05b_Ceiling
+    3300038: Area_05a_Floor
+    3300040: Area_05c
+    3300042: Area_04b_Ceiling
+    3300044: Area_04a_Floor
+    3300046: Area_03a
+    3300048: Area_06a
+    3300050: Area_07a
+    4300000: Area_01
+    4300002: Area_02
+    4300004: Area_03
+    4300006: Area_04
+    4300008: Area_05
+    4300010: Area_06
+    4300012: Area_07
+    4300014: Area_08
+    4300016: Area_09
+    4300018: Area_10
+    4300020: Hidden_Objects
+    4300022: Area_11
+    4300024: Area_10a
+    4300026: Alpha Objects
+    4300028: Character Base Mesh_1
+    4300030: Basic_Layout
+    4300032: Railing_Outlines
+    4300034: Shadow Objects
+    4300036: Windows
+    4300038: Area_01a
+    4300040: Sky
+    4300042: Alpha Objects - ChainLink
+    4300044: Area_07 Sky
+    4300046: Area_08 Sky
+    4300048: Area_10 Sky
+    4300050: Industrial_Windows
+    4300052: Area_04a
+    4300054: Area_04b
+    4300056: Area_04c
+    4300058: Area_04a_Floor
+    4300060: Area_04b_Ceiling
+    4300062: Area_05a_Floor
+    4300064: Area_05b_Ceiling
+    4300066: Area_05c
+    4300068: Area_03a
+    4300070: Area_06a
+    4300072: Area_07a
+    4300074: Area_10b
+    6400000: Area_01
+    6400002: Area_02
+    6400004: Area_03
+    6400006: Area_05
+    6400008: Area_04
+    6400010: Area_06
+    6400012: Area_10
+    6400014: Area_09
+    6400016: Area_08
+    6400018: Area_07
+    6400020: Hidden_Objects
+    6400022: Area_11
+    6400024: Area_10a
+    6400026: Sky
+    6400028: Area_01a
+    6400030: Industrial_Windows
+    6400032: Area_04c
+    6400034: Alpha Objects - ChainLink
+    6400036: Area_05b_Ceiling
+    6400038: Area_05a_Floor
+    6400040: Area_05c
+    6400042: Area_04b_Ceiling
+    6400044: Area_04a_Floor
+    6400046: Area_03a
+    6400048: Area_06a
+    6400050: Area_07a
+    7400002: ModoAnim
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
